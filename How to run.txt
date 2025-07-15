@@ -1,0 +1,9 @@
+cd server
+npm init -y
+npm install express cors multer pdf-parse
+node index.js
+
+cd client 
+npm install 
+npm start
+
