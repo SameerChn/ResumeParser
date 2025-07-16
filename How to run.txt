@@ -1,6 +1,5 @@
 cd server
-npm init -y
-npm install express cors multer pdf-parse
+npm install
 node index.js
 
 cd client 
