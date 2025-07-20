@@ -38,7 +38,7 @@ Follow the steps to run both frontend and backend locally.
 
 cd server        # Go to the backend folder
 npm install      # Install backend dependencies
-npm start        # Starts the backend server at http://localhost:5000
+node index.js    # Starts the backend server at http://localhost:5000
 
 
 cd client        # Go to the frontend folder
